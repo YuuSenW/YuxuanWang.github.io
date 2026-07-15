@@ -1,21 +1,9 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+### **Algorithm Engineering Intern **  
+** Nov 2025 – Jan 2026 | iFLYTEK** 
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+Focused on the research and development of time-series large models, mainly responsible for reproducing and debugging state-of-the-art time-series models and participating in daily technical discussions. Completed model training and experimental verification based on V100 GPU, and conducted targeted optimization and iterative improvement on the basis of Amazon Chronos-2 SOTA pre-trained model to enhance the performance of time-series prediction tasks.
 
-#### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
-
----
-
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
-
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
-
-#### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+#### Main Contributions:
+- Reproduced and tuned multiple advanced time-series papers and baseline models independently to ensure experimental reproducibility and accuracy.
+- Participated in team technical discussions, sorted out model optimization directions, and put forward feasible improvement schemes for time-series model defects.
+- Optimized and upgraded the Amazon Chronos-2 SOTA time-series model, effectively improving the adaptive ability and prediction effect of the model in practical time-series scenarios.
